@@ -55,15 +55,15 @@ Full Stack Developer specialized in building scalable, high-performance web appl
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victordeveloperfullstack&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordeveloperfullstack&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victordeveloperfullstack&theme=tokyo-night"/>
 </p>
 
 ---
@@ -86,10 +86,10 @@ Full Stack Developer specialized in building scalable, high-performance web appl
 
 ## 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/victor-hugo-abreu-5606241b5" target="blank">
 <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:"webxpertsolutions.web@gmail.com>
 <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -98,7 +98,7 @@ Full Stack Developer specialized in building scalable, high-performance web appl
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/victordeveloperfullstack/victordeveloperfullstack/output/snake.svg" />
 </p>
 
 ---
