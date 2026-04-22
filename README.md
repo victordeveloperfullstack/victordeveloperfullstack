@@ -12,6 +12,7 @@ Full Stack Developer specialized in building scalable, high-performance web appl
 💡 Focused on clean code, performance, and real-world problem solving.
 
 ---
+🚀 Tech Focus: React • Next.js • Node.js • TypeScript • Docker • Kubernetes
 
 ## 🛠️ Tech Stack
 
@@ -107,7 +108,6 @@ Full Stack Developer specialized in building scalable, high-performance web appl
 Desenvolvedor Full Stack focado em aplicações modernas, escaláveis e de alta performance.
 
 ---
-🚀 Tech Focus: React • Next.js • Node.js • TypeScript • Docker • Kubernetes
 
 ⭐️ From Victor Hugo
 
