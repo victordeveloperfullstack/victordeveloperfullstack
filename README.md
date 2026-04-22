@@ -1,7 +1,7 @@
-##<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Victor+Hugo;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Applications" />
 </h1>
-
+<br>
 <h3 align="center">🚀 Full Stack Developer | High-Performance Web Applications</h3>
 
 ---
@@ -89,7 +89,7 @@ Full Stack Developer specialized in building scalable, high-performance web appl
 <a href="https://linkedin.com/in/victor-hugo-abreu-5606241b5" target="blank">
 <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:"webxpertsolutions.web@gmail.com>
+<a href="mailto:webxpertsolutions.web@gmail.com">
 <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -107,6 +107,7 @@ Full Stack Developer specialized in building scalable, high-performance web appl
 Desenvolvedor Full Stack focado em aplicações modernas, escaláveis e de alta performance.
 
 ---
+🚀 Tech Focus: React • Next.js • Node.js • TypeScript • Docker • Kubernetes
 
 ⭐️ From Victor Hugo
 
